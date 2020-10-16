@@ -5,3 +5,9 @@
 /objects.list
 /objects.mk
 /sources.mk
+
+*.bin
+*.list
+*.map
+*.elf
+
